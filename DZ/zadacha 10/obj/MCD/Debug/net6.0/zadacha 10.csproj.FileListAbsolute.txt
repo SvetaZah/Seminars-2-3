@@ -1,0 +1,15 @@
+C:\Users\Юрий\Desktop\Seminar2\DZ\zadacha 10\bin\MCD\Debug\net6.0\zadacha 10.exe
+C:\Users\Юрий\Desktop\Seminar2\DZ\zadacha 10\bin\MCD\Debug\net6.0\zadacha 10.deps.json
+C:\Users\Юрий\Desktop\Seminar2\DZ\zadacha 10\bin\MCD\Debug\net6.0\zadacha 10.runtimeconfig.json
+C:\Users\Юрий\Desktop\Seminar2\DZ\zadacha 10\bin\MCD\Debug\net6.0\zadacha 10.dll
+C:\Users\Юрий\Desktop\Seminar2\DZ\zadacha 10\bin\MCD\Debug\net6.0\zadacha 10.pdb
+C:\Users\Юрий\Desktop\Seminar2\DZ\zadacha 10\obj\MCD\Debug\net6.0\zadacha 10.csproj.AssemblyReference.cache
+C:\Users\Юрий\Desktop\Seminar2\DZ\zadacha 10\obj\MCD\Debug\net6.0\zadacha 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юрий\Desktop\Seminar2\DZ\zadacha 10\obj\MCD\Debug\net6.0\zadacha 10.AssemblyInfoInputs.cache
+C:\Users\Юрий\Desktop\Seminar2\DZ\zadacha 10\obj\MCD\Debug\net6.0\zadacha 10.AssemblyInfo.cs
+C:\Users\Юрий\Desktop\Seminar2\DZ\zadacha 10\obj\MCD\Debug\net6.0\zadacha 10.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\Desktop\Seminar2\DZ\zadacha 10\obj\MCD\Debug\net6.0\zadacha 10.dll
+C:\Users\Юрий\Desktop\Seminar2\DZ\zadacha 10\obj\MCD\Debug\net6.0\refint\zadacha 10.dll
+C:\Users\Юрий\Desktop\Seminar2\DZ\zadacha 10\obj\MCD\Debug\net6.0\zadacha 10.pdb
+C:\Users\Юрий\Desktop\Seminar2\DZ\zadacha 10\obj\MCD\Debug\net6.0\zadacha 10.genruntimeconfig.cache
+C:\Users\Юрий\Desktop\Seminar2\DZ\zadacha 10\obj\MCD\Debug\net6.0\ref\zadacha 10.dll
