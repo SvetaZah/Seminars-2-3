@@ -3,11 +3,8 @@
 // 78 -> третьей цифры нет
 // 32679 -> 6
 Console.Write("Введи число: ");
-int anyNumber = Convert.ToInt32(Console.ReadLine());
-string anyNumberText = Convert.ToString(anyNumber);
-if (anyNumberText.Length > 2){
-  Console.WriteLine("третья цифра -> " + anyNumberText[2]);
-}
-else {
-  Console.WriteLine("-> третьей цифры нет");
-}
+int n = Convert.ToInt32(Console.ReadLine());
+if (n < 99)
+  Console.WriteLine ("Третьей цифры нет!");
+else
+  Console.WriteLine(Convert.ToString (n) [2]);
